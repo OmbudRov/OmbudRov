@@ -9,8 +9,8 @@
 <table>
   <tr>
     <p align="center">
-      <a href="https://github.com/OmbudRov/TCS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=TCS" display=block height=auto></a>
-      <a href="https://github.com/OmbudRov/PartyPoints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=PartyPoints" display=block height=auto></a>
+      <a href="https://github.com/OmbudRov/TCS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=TCS&theme=highcontrast" display=block height=auto></a>
+      <a href="https://github.com/OmbudRov/PartyPoints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=PartyPoints&theme=highcontrast" display=block height=auto></a>
     </p>
   </tr>
 </table>
