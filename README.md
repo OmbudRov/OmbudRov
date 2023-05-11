@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=OmbudRov&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=OmbudRov&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak">
 </p>
+
 <!--
 **OmbudRov/OmbudRov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
