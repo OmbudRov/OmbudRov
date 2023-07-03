@@ -5,12 +5,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmbudRov&theme=highcontrast" alt="Summary Card">
 </p>
 
-<h2 align="center">Favourite Projects</h2>
+<h2 align="center">Favorite Projects</h2>
 <table>
   <tr>
     <p align="center">
       <a href="https://github.com/OmbudRov/TCS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=TCS&theme=highcontrast&cache_seconds=60" display=block height=auto></a>
       <a href="https://github.com/OmbudRov/PartyPoints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=PartyPoints&theme=highcontrast&cache_seconds=60" display=block height=auto></a>
+      <a href="https://github.com/OmbudRov/AColdOne-Clogging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmbudRov&repo=AColdOne-Clogging&theme=highcontrast&cache_seconds=60" display=block height=auto></a>
     </p>
   </tr>
 </table>
